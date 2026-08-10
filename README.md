@@ -10,3 +10,6 @@ This is a command-line interface task tracker.
 - `mark_done <id>`: Marks a task as done
 - `list <status>`: Lists tasks by status
   
+**Roadmap.sh Project URL:** [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
+**My Repository URL:** [https://github.com/git-Kanai/Task-Tracker](https://github.com/git-Kanai/Task-Tracker)
