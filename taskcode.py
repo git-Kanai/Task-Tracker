@@ -66,6 +66,7 @@ if command=="mark_progress":
             print(f'Task ID {id}: {task["status"]}-->in-progress')
             task["status"]="in-progress"
             save_tasks()
+            break
 
 
 if command=="mark_done":
@@ -75,6 +76,7 @@ if command=="mark_done":
             print(f'Task ID {id}: {task["status"]}-->done')
             task["status"]="done"
             save_tasks()
+            break
 
 if command=="list":
     stat = sys.argv[2]
